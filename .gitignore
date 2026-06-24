@@ -1,3 +1,1 @@
-# Bonsai training sessions are overnight recordings (300-400 MB each) — not used in analysis
-Data/Cued photometry/Raw/Bonsai Data/Training/
-Data/Cued photometry/Raw/Bonsai Data/Week 3 Retraining/
+# All training Bonsai files trimmed to 5h — now safe to commit
