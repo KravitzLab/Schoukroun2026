@@ -1,10 +1,8 @@
 # Schoukroun2026
 
-Fiber photometry and behavioral analysis pipeline for a cued feeding study comparing HFD and Chow mice across training and retraining sessions. Raw data is stored in this repository and processed through two Google Colab notebooks.
-
 ---
 
-## Notebooks
+## Cued Photometry Notebooks
 
 ### [Preprocessing](https://colab.research.google.com/drive/1VGXZPcOT4mkiNyb150U8lQ8iz7zfUhgV?usp=sharing)
 
