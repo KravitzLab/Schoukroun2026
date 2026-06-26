@@ -26,7 +26,7 @@ Downloads raw fluorescence recordings and Bonsai tracking files directly from th
 
 ---
 
-### [Analysis](**https://colab.research.google.com/drive/1IVTMziNgtBNCSD1-Iish3sTO55gYrjVl?usp=sharing**)
+### [Analysis](https://colab.research.google.com/drive/1IVTMziNgtBNCSD1-Iish3sTO55gYrjVl?usp=sharing)
 
 Downloads the processed photometry and Bonsai files from `Processed/` and runs the full group-level analysis.
 
