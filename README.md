@@ -4,7 +4,7 @@
 
 ## Cued Photometry Notebooks
 
-### [Preprocessing](https://colab.research.google.com/drive/11MCwOWZlziLwthGG0fjh_H5S5ix4sYVC?usp=sharing)
+### [Preprocessing](https://colab.research.google.com/drive/1ijCYxUg2_fULwReXencrLCKg1JV_16ZI?usp=sharing)
 
 Downloads raw fluorescence recordings and Bonsai tracking files directly from this repository, processes each session, and uploads the results back to the `Processed/` folder.
 
@@ -26,7 +26,7 @@ Downloads raw fluorescence recordings and Bonsai tracking files directly from th
 
 ---
 
-### [Analysis](https://colab.research.google.com/drive/1IVTMziNgtBNCSD1-Iish3sTO55gYrjVl?usp=sharing)
+### [Analysis](https://colab.research.google.com/drive/1EqCb97LP6lKbuHjTJiI1Wrao-EeYY7zc?usp=sharing)
 
 Downloads the processed photometry and Bonsai files from `Processed/` and runs the full group-level analysis.
 
