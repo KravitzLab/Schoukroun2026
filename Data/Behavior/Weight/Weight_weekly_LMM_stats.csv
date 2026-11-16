@@ -1,6 +1,6 @@
 ,Coef.,Std.Err.,z,P>|z|,[0.025,0.975]
-"Baseline Weight (Chow, Wk 0)",26.489,0.461,57.482,0.000,25.585,27.392
-Group Effect (HFD offset at Wk 0),1.349,0.662,2.036,0.042,0.050,2.647
-Time Effect (Slope for Chow),0.316,0.049,6.385,0.000,0.219,0.413
-Interaction Effect (HFD vs Chow rate difference),1.004,0.070,14.440,0.000,0.868,1.140
-Group Var,10.119,0.926,,,,
+"Baseline Weight (Chow, Wk 0)",26.472,0.460,57.588,0.000,25.571,27.373
+Group Effect (HFD offset at Wk 0),1.212,0.661,1.834,0.067,-0.083,2.506
+Time Effect (Slope for Chow),0.305,0.050,6.058,0.000,0.206,0.403
+Interaction Effect (HFD vs Chow rate difference),1.112,0.072,15.427,0.000,0.970,1.253
+Group Var,9.777,0.814,,,,
