@@ -1,6 +1,6 @@
 Parameter,Coefficient (Beta),Std Error,z value (t-stat),p-value,95% CI Lower,95% CI Upper,DF (Residuals)
-"Baseline Weight (Chow, Wk 0)",25.6078,0.5258,48.7065,< 0.001,24.5773,26.6382,848
-Group Effect (HFD offset at Wk 0),0.8823,0.7513,1.1743,0.2403,-0.5902,2.3547,848
-Time Effect (Slope for Chow),0.3204,0.0455,7.0489,< 0.001,0.2313,0.4095,848
-Interaction Effect (HFD vs Chow rate difference),1.0914,0.0645,16.9161,< 0.001,0.965,1.2179,848
-Group Var,4.5599,0.6455,7.0642,< 0.001,3.2947,5.825,848
+"Baseline Weight (Chow, Wk 0)",26.4885,0.4608,57.4817,< 0.001,25.5853,27.3917,669
+Group Effect (HFD offset at Wk 0),1.3486,0.6624,2.036,0.0417,0.0504,2.6469,669
+Time Effect (Slope for Chow),0.316,0.0495,6.3851,< 0.001,0.219,0.413,669
+Interaction Effect (HFD vs Chow rate difference),1.0038,0.0695,14.4404,< 0.001,0.8675,1.14,669
+Group Var,3.3603,0.5336,6.2974,< 0.001,2.3144,4.4061,669
