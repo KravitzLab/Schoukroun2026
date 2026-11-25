@@ -1,5 +1,0 @@
-Parameter,Coefficient (Beta),Std Error,z value,p-value,95% CI Lower,95% CI Upper,N_mice,N_obs
-"Baseline Weight (Chow, Wk 0)",26.4426,0.4635,57.047,< 0.001,25.5341,27.3511,108,729
-Group Effect (HFD offset at Wk 0),1.2223,0.6599,1.8524,0.0640,-0.071,2.5157,108,729
-Time Effect (Slope for Chow),0.3136,0.0517,6.0676,< 0.001,0.2123,0.4149,108,729
-Interaction Effect (HFD vs Chow rate difference),1.1612,0.0738,15.7334,< 0.001,1.0166,1.3059,108,729
